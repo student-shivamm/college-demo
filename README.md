@@ -1,7 +1,7 @@
 # college-demo
 my first git repository
 <br>
-Author= Shivam 
+Author= Shivam (student)
 </br
 
 
